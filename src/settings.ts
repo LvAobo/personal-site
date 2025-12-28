@@ -6,6 +6,7 @@ export const profile = {
 	research_areas: [
 		 { title: 'Information Theory', description: 'Brief description of the research interest', field: 'computer-science' },
 		{ title: 'Control', description: 'Brief description of the research interest', field: 'engineering' },
+		{ title: 'Complex Systems', description: 'Brief description of the research interest', field: 'physics' },
 	],
 }
 
