@@ -4,8 +4,8 @@ export const profile = {
 	institute: 'Washington University in St. Louis',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
-		 { title: 'Information Theory', description: 'Brief description of the research interest', field: 'information' },
-		{ title: 'Control', description: 'Brief description of the research interest', field: 'control' },
+		 { title: 'Information Theory', description: 'Brief description of the research interest', field: 'computer-science' },
+		{ title: 'Control', description: 'Brief description of the research interest', field: 'engineering' },
 	],
 }
 
