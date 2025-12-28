@@ -1,6 +1,6 @@
 export const profile = {
 	fullName: 'Aobo Lyu',
-	title: 'Mr.',
+	title: 'Ph.D. student',
 	institute: 'Washington University in St. Louis',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
