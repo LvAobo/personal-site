@@ -1,25 +1,26 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
+	fullName: 'Aobo Lyu',
+	title: 'Mr.',
+	institute: 'Washington University in St. Louis',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		 { title: 'Information Theory', description: 'Brief description of the research interest', field: 'information' },
+		{ title: 'Control', description: 'Brief description of the research interest', field: 'control' },
 	],
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
-	email: '',
+	email: 'aobo.lyu@wustl.edu',
 	linkedin: '',
-	x: 'https://www.x.com/',
+	x: '',
 	bluesky: '',
-	github: '',
+	github: 'https://github.com/LvAobo',
 	gitlab: '',
-	scholar: '',
+	scholar: 'https://scholar.google.com/citations?user=jOg4fJEAAAAJ&hl=zh-CN&newwindow=1',
 	inspire: '',
 	arxiv: '',
-	orcid: '',
+	orcid: 'https://orcid.org/0000-0002-5565-5747',
 }
 
 export const template = {
